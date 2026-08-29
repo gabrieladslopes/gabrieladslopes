@@ -1,7 +1,10 @@
 ### Hi there, I'm Gabriela 👋
 
 - 👩🏻‍💻 I’m currently working as a Software Developer at EloGroup
-- 👩🏻‍🎓 Computer Engineering, University of Brasília
+- 👩🏻‍🎓 Education and specializations:
+  - 🎓 Computer Engineering — *University of Brasília (UnB)*
+  - 📜 Post-graduate in Software Architecture — *FIAP*
+  - 🧠 MBA in Software Engineering with AI — *FullCycle* (In progress)
 - 📫 How to reach me: gabrieladslopes@gmail.com
 
 <!--
