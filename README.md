@@ -1,6 +1,6 @@
 ### Hi there, I'm Gabriela 👋
 
-- 👩🏻‍💻 I’m currently working as a Software Developer at EloGroup
+- 👩🏻‍💻 I’m currently working as a Software Engineer at EloGroup
 - 👩🏻‍🎓 Education and specializations:
   - 🎓 Computer Engineering — *University of Brasília (UnB)*
   - 📜 Post-graduate in Software Architecture — *FIAP*
